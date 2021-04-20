@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IndiaJean-Jacques
 
 - 👀 I’m interested in blockchain technology and machine learning neural networks
-- 🌱 I’m currently learning typescript
+- 🌱 I’m currently learning C, typescript and how to use jQuery, TensorFlow, and SciKit in machine learning.
 - 💞️ I’m looking to collaborate on any projects - open to learning more
 - 📫 How to reach me - LinkedIn!!
 
